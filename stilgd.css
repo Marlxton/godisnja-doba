@@ -1,0 +1,126 @@
+html{background-image:url(https://i.pinimg.com/originals/3b/8a/d2/3b8ad2c7b1be2caf24321c852103598a.jpg);
+    background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+    background-origin: inherit;
+    backface-visibility: visible;}
+
+#naslov{font-size: 32px;
+        margin-bottom: 20px;
+        font-style:bold;
+        background: linear-gradient(to right, white,green,orange,brown);}
+
+.opis{font-size: 20px;
+      color: #FFE6E8;
+      margin-left: 12px;
+      margin-top: 15px;
+      margin-bottom: 15px;
+      }
+
+.fotografije{display: block;
+            margin-top: 15px;
+            margin-left: auto;  
+            margin-right: auto;
+            margin-bottom: 35px; 
+            border: 8px ridge blue;  
+            padding: 5px;}
+
+.navigacija{
+            font-family: 'Bangers', cursive;
+            font-size: 20px;
+            color:#FFF9E3;
+            margin-left: 20px;
+            margin-bottom: 20px;}
+
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital@1&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+#podnaslov1{font-family:'Luxurious Roman', cursive;
+            margin-top: auto;
+            margin-left: 15px;
+            font-size:23px;
+            color:#ff4500;}
+
+#zima{font-family:'Luxurious Roman', cursive;
+     margin-left: 20px;
+     font-size: 18px;
+     background-color:rgba(105, 95, 71, 0.3);
+     color: red;}  
+
+#podnaslov2{font-family:'Luxurious Roman', cursive;
+            margin-left: 15px;
+            font-size:23px;
+            color:#1eeb82;}
+
+#proljeće{font-family: 'Noto Sans', sans-serif;
+     margin-left: 20px;
+     font-size: 18px;
+     background-color:rgba(105, 95, 71, 0.3);
+     color: #1eeb82;}  
+
+#podnaslov3{font-family:'Luxurious Roman', cursive;
+            margin-left: 15px;
+            font-size:23px;
+            color:#ff8b3e;}
+
+#ljeto{font-family: 'Mochiy Pop P One', sans-serif;
+     margin-left: 20px;
+     font-size: 18px;
+     background-color:rgba(105, 95, 71, 0.3);
+     color: #ff8b3e;}  
+
+#podnaslov4{font-family:'Luxurious Roman', cursive;
+            margin-left: 15px;
+            font-size:23px;
+            color:#904721;}
+
+#jesen{font-family: 'Mochiy Pop P One', sans-serif;
+     margin-left: 20px;
+     font-size: 18px;
+     background-color:rgba(105, 95, 71, 0.3);
+     color: #904721;}  
+
+.glavni{border-style: solid;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    border-bottom-width: 4px;
+    border-width: 4px;
+    border-color: aqua;}
+
+.zaglavlje{border-style: solid;
+    border-bottom-width: 4px;
+    border-width: 4px;
+    border-color: aqua;
+    margin-bottom: 15px;}
+
+.button{font-family: cursive;
+        font-size:16px;
+        color: #00FF00;
+        background-color: #111111;
+        width: 100px;}
+
+
+.godišnja_doba{
+                font-family:"Special Elite", cursive; 
+                color: #FFFFC2;}
+
+.podnaslov{font-family: "Special Elite", cursive;
+           color: #F778A1;
+           margin-left: 30px;}
+
+.lista{font-family: "Special Elite", cursive; 
+    color: #FFE6E8;}
+
+#naslov_zima{font-family: "Special Elite", cursive; 
+             color: #F778A1;
+             font-size: 30px;}
+
+
